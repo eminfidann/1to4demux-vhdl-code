@@ -1,1 +1,1 @@
-# 1to4demux-vhdl-code
+# 1 bitlik 1-4 demux VHDL kodu
