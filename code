@@ -1,3 +1,10 @@
+-----------------------------------------
+--348263
+--Mehmet Emin Fidan
+--1 bit girişli 1to4 demux
+-----------------------------------------
+
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
  
