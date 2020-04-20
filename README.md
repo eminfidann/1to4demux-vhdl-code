@@ -1,1 +1,1 @@
-# 1 bitlik 1-4 demux VHDL kodu
+# 1 bit girişli 1-4 demux VHDL kodu
